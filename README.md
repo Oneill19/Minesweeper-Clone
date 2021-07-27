@@ -1,2 +1,2 @@
 # minesweeper_clone
-minesweeper clone i built in java in my second year java course.
+minesweeper clone i built using java and javafx in my second year java course.
