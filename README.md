@@ -1,4 +1,4 @@
-# minesweeper_clone
+# Minesweeper Clone
 Minesweeper clone I built using Java and Javafx in my second year java course.
 
 mines package
