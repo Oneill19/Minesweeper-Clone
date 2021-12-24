@@ -144,10 +144,8 @@ public class Mines {
         while (numMines > 0) {
             x = rand.nextInt(height);
             y = rand.nextInt(width);
-            if (!board[x][y].isBomb) {
-                board[x][y].isBomb = true;
+            if (addMine(x, y))
                 numMines--;
-            }
         }
     }
 
