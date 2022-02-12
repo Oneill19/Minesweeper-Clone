@@ -9,3 +9,10 @@ mines package
 4. MinesFX.java is all the visual aspect of the game, creating a grid to represent the game board, the images of every grid and the win and lose windows.
 
 The game using images and sound effect.
+
+#
+
+### Preview
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66797449/153717765-54bb2872-f85f-4f74-9d9c-2ead31e51d6f.gif"/>
+<!p>
