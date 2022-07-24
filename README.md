@@ -1,4 +1,9 @@
-# Minesweeper Clone
+<h1 align="center">Minesweeper Clone</h1>
+
+<p align="center" width="100%">
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179539867-f24505fc-5848-4c23-b47b-78475851aec2.svg" title="Java" width="70" height="60"/></a>
+</p>
+
 Minesweeper clone I built using Java and Javafx in my second year java course.
 
 mines package
